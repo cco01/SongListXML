@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+
+<setlist>
+  <songs>
+    <song>
+      <title>Know Better</title>
+      <artist>Tinashe</artist>
+      <genre>R&amp;B</genre>
+      <genre>Soul</genre>
+      <year>2019</year>
+    </song>
+    <song>
+      <title>Nights Like This</title>
+      <artist>Kehlani</artist>
+      <artist>Ty Dolla $ign</artist>
+      <genre>R&amp;B</genre>
+      <genre>Soul</genre>
+      <year>2019</year>
+    </song>
+    <song>
+      <title>Whatchamacallit</title>
+      <artist>Ella Mai</artist>
+      <artist>Chris Brown</artist>
+      <genre>R&amp;B</genre>
+      <genre>Soul</genre>
+      <year>2018</year>
+    </song>
+    <song>
+      <title>Hard Place</title>
+      <artist>H.E.R</artist>
+      <genre>Pop</genre>
+      <year>2019</year>
+    </song>
+    <song>
+      <title>Talia</title>
+      <artist>King Princess</artist>
+      <genre>Dance</genre>
+      <genre>Electronic</genre>
+      <year>2018</year>
+    </song>
+    <song>
+      <title>Simmer</title>
+      <artist>Mahalia</artist>
+      <artist>Burna Boy</artist>
+      <genre>R&amp;B</genre>
+      <genre>Soul</genre>
+      <genre>UK R&amp;B</genre>
+      <year>2019</year>
+    </song>
+    <song>
+      <title>Needed Me</title>
+      <artist>Rihanna</artist>
+      <genre>Rythm and Blues</genre>
+      <genre>Trap music</genre>
+      <genre>Electro</genre>
+      <genre>Alternative/Indie</genre>
+      <genre>Pop</genre>
+      <genre>HipHop/Rap</genre>
+      <year>2016</year>
+    </song>
+    <song>
+      <title>EX</title>
+      <artist>Kiana Lede</artist>
+      <genre>R&amp;B</genre>
+      <year>2018</year>
+    </song>
+    <song>
+      <title>Low Fruit</title>
+      <artist>Malaika Terry</artist>
+      <genre>R&amp;B</genre>
+      <year>2018</year>
+    </song>
+    <song>
+      <title>Remember</title>
+      <artist>Becky Hill</artist>
+      <artist>David Guetta</artist>
+      <genre>Dance/Electronic</genre>
+      <year>2021</year>
+    </song>
+  </songs>
+</setlist>
